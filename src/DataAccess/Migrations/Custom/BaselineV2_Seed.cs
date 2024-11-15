@@ -434,7 +434,7 @@ VALUES
                            <!-- BEGIN HEADER // -->                                  
                            <table border=""0"" cellpadding=""0"" cellspacing=""0"" width=""100%"" id=""templateHeader"">
                               <tr>
-                                 <td valign=""top"" class=""headerContent"">                                              <img src=""https://raw.githubusercontent.com/Azure/Commercial-Marketplace-SaaS-Accelerator/main/src/CustomerSite/wwwroot/contoso-sales.png"" style=""max-width: 300px; display: block; margin-left: auto; margin-right: auto; padding-top:10px;padding-bottom:10px;"" id=""headerImage"" />                                          </td>
+                                 <td valign=""top"" class=""headerContent"">                                              <img src=""https://raw.githubusercontent.com/Azure/Commercial-Marketplace-SaaS-Accelerator/main/src/CustomerSite/wwwroot/solo-logo.png"" style=""max-width: 300px; display: block; margin-left: auto; margin-right: auto; padding-top:10px;padding-bottom:10px;"" id=""headerImage"" />                                          </td>
                               </tr>
                            </table>
                            <!-- // END HEADER -->                              
@@ -497,7 +497,7 @@ VALUES
                            <!-- BEGIN HEADER // -->                                  
                            <table border=""0"" cellpadding=""0"" cellspacing=""0"" width=""100%"" id=""templateHeader"">
                               <tr>
-                                 <td valign=""top"" class=""headerContent"">                                              <img src=""https://raw.githubusercontent.com/Azure/Commercial-Marketplace-SaaS-Accelerator/main/src/CustomerSite/wwwroot/contoso-sales.png"" style=""max-width: 300px; display: block; margin-left: auto; margin-right: auto; padding-top:10px;padding-bottom:10px;"" id=""headerImage"" />                                          </td>
+                                 <td valign=""top"" class=""headerContent"">                                              <img src=""https://raw.githubusercontent.com/Azure/Commercial-Marketplace-SaaS-Accelerator/main/src/CustomerSite/wwwroot/solo-logo.png"" style=""max-width: 300px; display: block; margin-left: auto; margin-right: auto; padding-top:10px;padding-bottom:10px;"" id=""headerImage"" />                                          </td>
                               </tr>
                            </table>
                            <!-- // END HEADER -->                              
@@ -561,7 +561,7 @@ VALUES
                            <!-- BEGIN HEADER // -->                                  
                            <table border=""0"" cellpadding=""0"" cellspacing=""0"" width=""100%"" id=""templateHeader"">
                               <tr>
-                                 <td valign=""top"" class=""headerContent"">                                              <img src=""https://raw.githubusercontent.com/Azure/Commercial-Marketplace-SaaS-Accelerator/main/src/CustomerSite/wwwroot/contoso-sales.png"" style=""max-width: 300px; display: block; margin-left: auto; margin-right: auto; padding-top:10px;padding-bottom:10px;"" id=""headerImage"" />                                          </td>
+                                 <td valign=""top"" class=""headerContent"">                                              <img src=""https://raw.githubusercontent.com/Azure/Commercial-Marketplace-SaaS-Accelerator/main/src/CustomerSite/wwwroot/solo-logo.png"" style=""max-width: 300px; display: block; margin-left: auto; margin-right: auto; padding-top:10px;padding-bottom:10px;"" id=""headerImage"" />                                          </td>
                               </tr>
                            </table>
                            <!-- // END HEADER -->                              
@@ -625,7 +625,7 @@ VALUES
                            <!-- BEGIN HEADER // -->                                  
                            <table border=""0"" cellpadding=""0"" cellspacing=""0"" width=""100%"" id=""templateHeader"">
                               <tr>
-                                 <td valign=""top"" class=""headerContent"">                                              <img src=""https://raw.githubusercontent.com/Azure/Commercial-Marketplace-SaaS-Accelerator/main/src/CustomerSite/wwwroot/contoso-sales.png"" style=""max-width: 300px; display: block; margin-left: auto; margin-right: auto; padding-top:10px;padding-bottom:10px;"" id=""headerImage"" />                                          </td>
+                                 <td valign=""top"" class=""headerContent"">                                              <img src=""https://raw.githubusercontent.com/Azure/Commercial-Marketplace-SaaS-Accelerator/main/src/CustomerSite/wwwroot/solo-logo.png"" style=""max-width: 300px; display: block; margin-left: auto; margin-right: auto; padding-top:10px;padding-bottom:10px;"" id=""headerImage"" />                                          </td>
                               </tr>
                            </table>
                            <!-- // END HEADER -->                              
