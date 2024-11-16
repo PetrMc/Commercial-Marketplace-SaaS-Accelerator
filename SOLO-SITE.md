@@ -13,13 +13,13 @@ cd ./Commercial-Marketplace-SaaS-Accelerator/deployment; `
 
 ```output
 
- ✅ If the intallation completed without error complete the folllowing checklist:
+✅ If the intallation completed without error complete the folllowing checklist:
    🔵 Add The following URL in PartnerCenter SaaS Technical Configuration
       ➡️ Landing Page section:       https://SOLO-SITE-portal.azurewebsites.net/
       ➡️ Connection Webhook section: https://SOLO-SITE-portal.azurewebsites.net/api/AzureWebhook
       ➡️ Tenant ID:                  5e7d8166-7876-4755-a1a4-b476d4a344f6
       ➡️ AAD Application ID section: 303020a5-b0bc-4a1c-8955-1a78777675f6
-Deployment Complete in 17m:28s
+Deployment Complete in 18m:39s
 DO NOT CLOSE THIS SCREEN.  Please make sure you copy or perform the actions above before closing.
 ```
 
